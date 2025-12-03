@@ -1,0 +1,10 @@
+---
+globs: ["**/*.ts","**/*.js"]
+alwaysApply: false
+---
+
+# Node.js APIs - Use Node.js Native Modules for File Operations
+
+## Policies
+
+1. Use Node.js native modules (node:fs, node:path, node:url) for file system operations and path manipulation

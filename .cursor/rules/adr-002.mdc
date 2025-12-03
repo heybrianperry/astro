@@ -1,0 +1,10 @@
+---
+globs: ["packages/db/**/*.ts","**/schemas/**/*.ts"]
+alwaysApply: false
+---
+
+# Database Access - Use Drizzle ORM ^0.42.0n
+
+## Policies
+
+1. Use Drizzle ORM ^0.42.0 for type-safe database operations in database integration packages
