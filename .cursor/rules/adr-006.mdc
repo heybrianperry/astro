@@ -1,0 +1,10 @@
+---
+globs: ["packages/integrations/preact/**/*","**/*.jsx","**/*.tsx"]
+alwaysApply: false
+---
+
+# Multi-Framework Support - Use Preact 10.27.1 as Lightweight Alternative
+
+## Policies
+
+1. Use Preact 10.27.1 as a lightweight React alternative for size-constrained scenarios

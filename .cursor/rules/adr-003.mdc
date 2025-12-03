@@ -1,0 +1,10 @@
+---
+globs: ["**/cookies/**/*.ts","**/*.ts"]
+alwaysApply: false
+---
+
+# Authentication - Use Cookie Library ^1.0.2 for Session Management
+
+## Policies
+
+1. Use cookie library ^1.0.2 for parsing and serializing HTTP cookies in session management

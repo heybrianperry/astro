@@ -1,0 +1,10 @@
+---
+globs: ["**/*.ts","**/*.tsx","**/*.js","**/*.jsx","**/*.json","**/*.md"]
+alwaysApply: false
+---
+
+# Code Quality - Use Prettier ^3.6.2 for Formatting
+
+## Policies
+
+1. Use Prettier ^3.6.2 for code formatting in all source files

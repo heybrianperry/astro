@@ -1,0 +1,10 @@
+---
+globs: ["**/e2e/**/*.ts","**/e2e/**/*.js"]
+alwaysApply: false
+---
+
+# Testing Strategy - Use Playwright 1.56.1 for E2E Testing
+
+## Policies
+
+1. Use Playwright 1.56.1 for end-to-end browser testing in all E2E test files
