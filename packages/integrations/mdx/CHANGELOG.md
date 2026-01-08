@@ -1,5 +1,18 @@
 # @astrojs/mdx
 
+## 4.3.13
+
+### Patch Changes
+
+- Updated dependencies [[`d8305f8`](https://github.com/withastro/astro/commit/d8305f8abdf92db6fa505ee9c1774553ba90b7bd)]:
+  - @astrojs/markdown-remark@6.3.10
+
+## 4.3.12
+
+### Patch Changes
+
+- [#14813](https://github.com/withastro/astro/pull/14813) [`e1dd377`](https://github.com/withastro/astro/commit/e1dd377398a3dcf6ba0697dc8d4bde6d77a45700) Thanks [@ematipico](https://github.com/ematipico)! - Removes `picocolors` as dependency in favor of the fork `piccolore`.
+
 ## 4.3.11
 
 ### Patch Changes
